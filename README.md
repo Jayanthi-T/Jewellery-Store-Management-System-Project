@@ -1,1 +1,1 @@
-# Jewellery-Store-Management-System-Project
+# Jewellery Store Management System Project 
