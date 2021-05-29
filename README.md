@@ -20,7 +20,8 @@ They are,
 - If 3 is clicked admin will be able to search the jewellery item.
 - If 4 is clicked admin will be able to view item list.
 - If 5 is clicked admin will be able to edit the jewellery item.
-- If 6 is clicked admin will be able to calculate the bill.If 7 is clicked the application will be closed.
+- If 6 is clicked admin will be able to calculate the bill.
+- If 7 is clicked the application will be closed.
 
 Advantages of our project are:
 - All the operations of the jewellery store can be handled with with our software.
