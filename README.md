@@ -13,6 +13,8 @@ They are,
   - Calculate the bill
   - Close application
   
+  
+  
 - If 1 is clicked admin will be able to add the jewellery item.
 - If 2 is clicked admin will be able to remove the jewellery item.
 - If 3 is clicked admin will be able to search the jewellery item.
