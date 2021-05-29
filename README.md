@@ -6,12 +6,12 @@ First to use the project the admin of the jewellery store has to login with corr
 Main menu has almost 7 options.
 They are,
   - 1.Add the jewellery item
-  - Remove the jewellery item
-  - Search the jewellery item
-  - View item list
-  - Edit the jewellery item
-  - Calculate the bill
-  - Close application
+  - 2.Remove the jewellery item
+  - 3.Search the jewellery item
+  - 4.View item list
+  - 5.Edit the jewellery item
+  - 6.Calculate the bill
+  - 7.Close application
   
   
   
